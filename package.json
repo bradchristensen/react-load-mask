@@ -1,6 +1,6 @@
 {
   "name": "react-load-mask",
-  "version": "2.0.2",
+  "version": "2.0.3-lic.0",
   "description": "React load mask",
   "main": "lib/index.js",
   "scripts": {
